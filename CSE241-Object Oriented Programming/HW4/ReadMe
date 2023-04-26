@@ -1,0 +1,10 @@
+
+In the main menu, we have 3 options, the option allows us to create a game, the 2nd option lists the games, and the 3rd option compares the two games.
+
+Save the "save filename.txt" file to watch the game
+To open a registered game, you must type "load filename.txt".
+You can exit the active game by typing "quit" and create a new game.
+
+It is necessary to write the positions in lower case. For example "a1", "b1", "c1", "d1", "e1"
+
+Sometimes my program gives a meaningless seg error. I couldn't find the reason. Full of locations I guess.
